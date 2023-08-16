@@ -1,1 +1,2 @@
-# Selenium3.1
+# Selenium_3.1
+Автоматизация тестирования с помощью Selenium и Python
